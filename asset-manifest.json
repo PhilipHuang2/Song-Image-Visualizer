@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/song-image-visualizer/static/css/main.a617e044.chunk.css",
+    "main.js": "/song-image-visualizer/static/js/main.323456ba.chunk.js",
+    "main.js.map": "/song-image-visualizer/static/js/main.323456ba.chunk.js.map",
+    "runtime-main.js": "/song-image-visualizer/static/js/runtime-main.652838ad.js",
+    "runtime-main.js.map": "/song-image-visualizer/static/js/runtime-main.652838ad.js.map",
+    "static/js/2.3233a97f.chunk.js": "/song-image-visualizer/static/js/2.3233a97f.chunk.js",
+    "static/js/2.3233a97f.chunk.js.map": "/song-image-visualizer/static/js/2.3233a97f.chunk.js.map",
+    "static/js/3.28591f58.chunk.js": "/song-image-visualizer/static/js/3.28591f58.chunk.js",
+    "static/js/3.28591f58.chunk.js.map": "/song-image-visualizer/static/js/3.28591f58.chunk.js.map",
+    "index.html": "/song-image-visualizer/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/song-image-visualizer/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3233a97f.chunk.js.LICENSE.txt": "/song-image-visualizer/static/js/2.3233a97f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/song-image-visualizer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.652838ad.js",
+    "static/js/2.3233a97f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.323456ba.chunk.js"
+  ]
+}
